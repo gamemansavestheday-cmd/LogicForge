@@ -55,4 +55,4 @@ Philosophy
 
     The AI does the work you provide the goal the AI provides the plan the tool executes the plan
 
-This project will stay free I hate DRM and paywalls I am not a cock bloc
+This project will stay free I hate DRM and paywalls I am not a cock block duh
